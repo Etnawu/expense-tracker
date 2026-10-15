@@ -1,2 +1,2 @@
-# expense-tracker
-Expense tracker using Python + SQL
+# Pokemon TCG tracker
+Built using Python + SQL 
